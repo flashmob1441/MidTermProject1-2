@@ -5,7 +5,11 @@
       <FullPath>C:\Git\CPlusPlus\MidTermProject1-2\x64\Debug\Project.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
-  <ContentFiles />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Git\CPlusPlus\MidTermProject1-2\Project\cls.h</FullPath>
+    </ContentFile>
+  </ContentFiles>
   <SatelliteDlls />
   <NonRecipeFileRefs />
 </Project>
